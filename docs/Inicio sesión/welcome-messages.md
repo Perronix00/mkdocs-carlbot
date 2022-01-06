@@ -1,4 +1,4 @@
-# Welcome and leave messages
+# Bienvenido a pajas locas 🤑🤙
 
 !!! info
     Use the dashboard! It allows for easier setup and embeds
@@ -21,13 +21,13 @@ All these messages will be sent to the channel saved with `!set welcome`. **Use 
 
 `{user}` - The name of the user
 
-`{server}` - The name of the server
+`{server}` - Pajas locas 2.5 🤑🤙
 
 `{user(id)}` - The ID of the user
 
 `{user(proper)}` - The name including the last four digits \(Carl\#0001\).
 
-`{server(members)}` - The number of members on the server \(after the event has happened\). Use `{ord:{server(members)}}` to turn 8102 into 8,102nd etc.
+`{server(members)}` - El número de miembros en el servidor. \(after the event has happened\). Use `{ord:{server(members)}}` to turn 8102 into 8,102nd etc.
 
 Also supports `{random: lists, separated by commas}` and `{math: 1 + 1} math blocks` not sure when you'd ever want a math block but random lists are pretty useful.
 
